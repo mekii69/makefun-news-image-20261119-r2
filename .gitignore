@@ -3,3 +3,4 @@ ref/
 art/*.png
 NOTES.md
 prompt-user-words.txt
+art/*.json
